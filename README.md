@@ -621,7 +621,8 @@ https://github.com/cb2024ok/RedAlert
 
     This is a collection of major demonstration videos for that date.
 
-<a href="https://imgur.com/gallery/20260906-z-success-E17096q" target="_blank">20260906-z-success</a>
+### 🎥 20260906-z-success 
+[![active-20260904](https://i.imgur.com/qt775sk.png)](https://imgur.com/gallery/20260906-z-success-E17096q)
 
-<a href="https://imgur.com/gallery/active-20260904-CtjfGWd" target="_blank"> <img src="https://imgur.com/gallery/active-20260904-img-fsbjjd6#1BzjvPJ" /> active_20260904 nema11 success(Z-PEN)
-</a>
+[![active-20260904](https://i.imgur.com/1BzjvPJ.png)](https://i.imgur.com/1BzjvPJ.png)
+
