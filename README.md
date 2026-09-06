@@ -612,3 +612,6 @@ $$V_{REF} = I_{MAX} \times 8 \times R_S$$
 
 1. **개발 (Dev) 단계:** 현재 가지고 있는 오픈루프 모터와 **`UMIP`** 드라이버 조합을 통해 펄스 제어 로직, ESP32 통신, 소프트웨어 안정성을 완벽히 검증.
 2. **운영 (Prod) 이관:** 모터 중복 구매 없이 컨트롤러 및 배선 체계를 깔끔하게 유지하며 시스템 완성도 극대화.
+
+** Private Region **
+https://github.com/cb2024ok/RedAlert
