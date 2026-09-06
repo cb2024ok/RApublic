@@ -622,7 +622,7 @@ https://github.com/cb2024ok/RedAlert
     This is a collection of major demonstration videos for that date.
 
 ### 🎥 20260906-z-success 
-[![active-20260904](https://i.imgur.com/qt775sk.png)](https://imgur.com/gallery/20260906-z-success-E17096q)
+[![active-20260904](https://i.imgur.com/fHVcfyq.png)](https://imgur.com/gallery/20260906-z-success-E17096q)
 
 [![active-20260904](https://i.imgur.com/1BzjvPJ.png)](https://i.imgur.com/1BzjvPJ.png)
 
